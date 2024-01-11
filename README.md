@@ -6,7 +6,8 @@ projet test
 - private/public
 - gitignore
 - commit de base
+- ## Faire un commit :
+- ....
+- ....
   
-## Faire un commit :
--des modifications
--utilisateur /emprunt
+
